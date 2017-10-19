@@ -1,0 +1,6 @@
+validate v. 验证
+validator n. 验证器
+valid adj. 合法的,验证通过的
+invalid adj. 不合法的,验证未通过的
+
+constructor n. 构造器,构造函数
